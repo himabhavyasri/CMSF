@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.carousel-images {
+	margin-top: 20px;
+	height: 500px;
+}
+.bg-container {
+	padding: 25px;
+	font-family: "Bree Serif";
+}
+.ranks {
+	margin-top: 35px;
+	padding: 18px;
+}
+.other-info {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom:  50px;
+}
+
+
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #007bff
+}
+
+.cursor:hover {
+    color: blue
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
+
+.fa-facebook {
+    color: #3b5999
+}
+
+.fa-twitter {
+    color: #55acee
+}
+
+.fa-linkedin {
+    color: #0077B5
+}
+
+.fa-instagram {
+    color: #e4405f
+}
+
+.fa-dribbble {
+    color: #ea4c89
+}
+
+.fa-pinterest {
+    color: #bd081c
+}
+
+.fa {
+    cursor: pointer
+}
